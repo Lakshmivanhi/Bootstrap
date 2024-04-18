@@ -1,0 +1,36 @@
+
+.contain{
+    background-color: pink;
+    width: 30rem;
+    margin: auto;
+    height: min-content;
+    margin-top: 0.5rem;
+
+}
+h1,p{
+    text-align: center;
+}
+.inputs{
+    margin: 0 2rem;
+}
+.form-label{
+    font-size: medium;
+    font-weight: 500;
+}
+.inputs input, .btn{
+    width: 25rem;
+}
+.form-control{
+    margin-bottom: 0.5rem;
+}
+.para{
+    padding: 1rem;
+}
+.Heading:hover::after{
+  content: ' Form';
+  cursor: pointer;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+}

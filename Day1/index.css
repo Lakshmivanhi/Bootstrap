@@ -1,0 +1,73 @@
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+   
+}
+.carousel-item img{
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+/* .carditems{
+    display: grid;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20rem;
+    justify-content: space-evenly;
+    grid-template-columns: repeat(3, 33%);
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+
+} */
+/* .card img{
+    flex: 1 0 auto;
+} */
+
+.card-img-top{
+    width: 300px;
+    height: 300px;
+   
+}
+.card{
+  margin: 1rem 3rem;
+}
+/* .navbar{
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: 1;
+} */
+.container-fluid{
+    color: white;
+    background-color:darkblue ;
+    padding: 2rem;
+    /* z-index: 2; */
+    /* top: 0;
+    left: 0;
+    position: fixed; */
+    height: 4rem;
+    top: 0;
+    left: 0;
+    /* z-index: 1; */
+    
+}
+/* #carouselExampleIndicators{
+    position: relative;
+    top: 3rem;
+} */
+.container-fluid a{
+    color: white;
+    font-weight: 900;
+    font-size: medium;
+}
+.navbar-brand{
+    padding: 2rem;
+}
+#navbarNavDropdown{
+    margin-left: 25rem;
+}
+.navbar-nav li{
+   margin-left: 7rem;
+}

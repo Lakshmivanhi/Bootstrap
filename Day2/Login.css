@@ -1,0 +1,34 @@
+body{
+    background-color: aqua;
+}
+.contain{
+    background-color: aquamarine;
+    width: 20rem;
+    height: max-content;
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+}
+.icon{
+    padding: 0.5rem;
+    margin: 1rem 0.5rem;
+}
+.icon1{
+    color: white;
+    background-color: rgb(244, 136, 59);
+    border-radius: 1rem;
+}
+.icon2{
+    color: white;
+    background-color: navy;
+    border-radius: 1rem;
+}
+.icon3{
+    color: white;
+    background-color: skyblue;
+    border-radius: 1rem;
+}

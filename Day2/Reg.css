@@ -1,0 +1,38 @@
+.contain{
+    width: 40%;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 5rem;
+}
+.contain h1{
+    text-align: center;
+}
+.contain1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 2rem;
+    column-gap: 2rem;
+}
+/* .form-control{
+    width: 50rem;
+} */
+.inputs{
+    width: 15rem;
+    /* margin: 2rem 2rem; */
+}
+.check-container{
+    margin: 0 2rem;
+}
+.checkbox{
+    margin-right: 2rem;
+}
+.checkbox{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+}
